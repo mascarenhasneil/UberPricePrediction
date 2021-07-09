@@ -10,7 +10,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -22,7 +22,7 @@
   <h3 align="center">Uber Price Prediction</h3>
 
   <p align="center">
-    This is final data science project for USIT5609 MScIT Part II primarily made to learn Data Analytics, Machine Learning and AI. 
+    This is final data science project for USIT5609 MScIT Part II. <br>Primarily made to learn Data Analytics, Machine Learning and AI.
     <br />
     <a href="https://github.com/mascarenhasneil/UberPricePrediction/blob/master/Readme.md"><strong>Explore the docs »</strong></a>
     <br />
